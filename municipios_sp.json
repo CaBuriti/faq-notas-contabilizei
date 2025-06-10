@@ -1,0 +1,399 @@
+[
+  {
+    "nome": "Americana",
+    "link": "SP - Americana",
+    "observacoes": "",
+    "instrucoes": [
+      "Clique no menu lateral em 'Consultas'.",
+      "Selecione 'Notas Fiscais'.",
+      "Clique na aba 'Notas Emitidas'.",
+      "Informe o período e clique em Consultar."
+    ],
+    "imagem": "8059be46-3ab0-4775-a3d5-0c96fcbc87f3.png"
+  },
+  {
+    "nome": "Araraquara",
+    "link": "SP - Araraquara",
+    "observacoes": "",
+    "instrucoes": [
+      "Acesse o sistema da prefeitura.",
+      "Preencha os dados do tomador, item e valor.",
+      "Revise os dados e clique em Emitir."
+    ],
+    "imagem": null
+  },
+  {
+    "nome": "Atibaia",
+    "link": "SP - Atibaia",
+    "observacoes": "",
+    "instrucoes": [
+      "Acesse o sistema da prefeitura.",
+      "Preencha os dados do tomador, item e valor.",
+      "Revise os dados e clique em Emitir."
+    ],
+    "imagem": null
+  },
+  {
+    "nome": "Barueri",
+    "link": "SP - Barueri ",
+    "observacoes": "",
+    "instrucoes": [
+      "Acesse o sistema da prefeitura.",
+      "Preencha os dados do tomador, item e valor.",
+      "Revise os dados e clique em Emitir."
+    ],
+    "imagem": null
+  },
+  {
+    "nome": "Bauru",
+    "link": "SP - Bauru",
+    "observacoes": "",
+    "instrucoes": [
+      "Acesse o sistema da prefeitura.",
+      "Preencha os dados do tomador, item e valor.",
+      "Revise os dados e clique em Emitir."
+    ],
+    "imagem": null
+  },
+  {
+    "nome": "Campinas",
+    "link": "SP - Campinas",
+    "observacoes": "",
+    "instrucoes": [
+      "Acesse o sistema da prefeitura.",
+      "Preencha os dados do tomador, item e valor.",
+      "Revise os dados e clique em Emitir."
+    ],
+    "imagem": null
+  },
+  {
+    "nome": "Cotia",
+    "link": "SP - Cotia",
+    "observacoes": "",
+    "instrucoes": [
+      "Acesse o sistema da prefeitura.",
+      "Preencha os dados do tomador, item e valor.",
+      "Revise os dados e clique em Emitir."
+    ],
+    "imagem": null
+  },
+  {
+    "nome": "Diadema",
+    "link": "SP - Diadema",
+    "observacoes": "",
+    "instrucoes": [
+      "Acesse o sistema da prefeitura.",
+      "Preencha os dados do tomador, item e valor.",
+      "Revise os dados e clique em Emitir."
+    ],
+    "imagem": null
+  },
+  {
+    "nome": "Embu das Artes",
+    "link": "SP - Embu das Artes ",
+    "observacoes": "",
+    "instrucoes": [
+      "Acesse o sistema da prefeitura.",
+      "Preencha os dados do tomador, item e valor.",
+      "Revise os dados e clique em Emitir."
+    ],
+    "imagem": null
+  },
+  {
+    "nome": "Franca",
+    "link": "SP - Franca ",
+    "observacoes": "",
+    "instrucoes": [
+      "Acesse o sistema da prefeitura.",
+      "Preencha os dados do tomador, item e valor.",
+      "Revise os dados e clique em Emitir."
+    ],
+    "imagem": null
+  },
+  {
+    "nome": "Guarulhos",
+    "link": "SP - Guarulhos ",
+    "observacoes": "",
+    "instrucoes": [
+      "Acesse o sistema da prefeitura.",
+      "Preencha os dados do tomador, item e valor.",
+      "Revise os dados e clique em Emitir."
+    ],
+    "imagem": null
+  },
+  {
+    "nome": "Indaiatuba",
+    "link": "SP - Indaiatuba",
+    "observacoes": "",
+    "instrucoes": [
+      "Acesse o sistema da prefeitura.",
+      "Preencha os dados do tomador, item e valor.",
+      "Revise os dados e clique em Emitir."
+    ],
+    "imagem": null
+  },
+  {
+    "nome": "Ibitinga",
+    "link": "SP - Ibitinga",
+    "observacoes": "",
+    "instrucoes": [
+      "Acesse o sistema da prefeitura.",
+      "Preencha os dados do tomador, item e valor.",
+      "Revise os dados e clique em Emitir."
+    ],
+    "imagem": null
+  },
+  {
+    "nome": "Itapevi",
+    "link": "SP - Itapevi",
+    "observacoes": "",
+    "instrucoes": [
+      "Acesse o sistema da prefeitura.",
+      "Preencha os dados do tomador, item e valor.",
+      "Revise os dados e clique em Emitir."
+    ],
+    "imagem": null
+  },
+  {
+    "nome": "Jacareí",
+    "link": "SP - Jacareí",
+    "observacoes": "",
+    "instrucoes": [
+      "Acesse o sistema da prefeitura.",
+      "Preencha os dados do tomador, item e valor.",
+      "Revise os dados e clique em Emitir."
+    ],
+    "imagem": null
+  },
+  {
+    "nome": "Jundiaí",
+    "link": "SP - Jundiaí",
+    "observacoes": "Jundiaí - SP",
+    "instrucoes": [
+      "Acesse o sistema da prefeitura.",
+      "Preencha os dados do tomador, item e valor.",
+      "Revise os dados e clique em Emitir."
+    ],
+    "imagem": null
+  },
+  {
+    "nome": "Limeira",
+    "link": "SP - Limeira",
+    "observacoes": "",
+    "instrucoes": [
+      "Acesse o sistema da prefeitura.",
+      "Preencha os dados do tomador, item e valor.",
+      "Revise os dados e clique em Emitir."
+    ],
+    "imagem": null
+  },
+  {
+    "nome": "Marília",
+    "link": "SP - Marília",
+    "observacoes": "",
+    "instrucoes": [
+      "Acesse o sistema da prefeitura.",
+      "Preencha os dados do tomador, item e valor.",
+      "Revise os dados e clique em Emitir."
+    ],
+    "imagem": null
+  },
+  {
+    "nome": "Mauá",
+    "link": "SP - Mauá",
+    "observacoes": "",
+    "instrucoes": [
+      "Acesse o sistema da prefeitura.",
+      "Preencha os dados do tomador, item e valor.",
+      "Revise os dados e clique em Emitir."
+    ],
+    "imagem": null
+  },
+  {
+    "nome": "Osasco",
+    "link": "SP - Osasco ",
+    "observacoes": "",
+    "instrucoes": [
+      "Acesse o sistema da prefeitura.",
+      "Preencha os dados do tomador, item e valor.",
+      "Revise os dados e clique em Emitir."
+    ],
+    "imagem": null
+  },
+  {
+    "nome": "Pedreira",
+    "link": "SP - Pedreira",
+    "observacoes": "",
+    "instrucoes": [
+      "Acesse o sistema da prefeitura.",
+      "Preencha os dados do tomador, item e valor.",
+      "Revise os dados e clique em Emitir."
+    ],
+    "imagem": null
+  },
+  {
+    "nome": "Piracicaba",
+    "link": "SP - Piracicaba",
+    "observacoes": "",
+    "instrucoes": [
+      "Acesse o sistema da prefeitura.",
+      "Preencha os dados do tomador, item e valor.",
+      "Revise os dados e clique em Emitir."
+    ],
+    "imagem": null
+  },
+  {
+    "nome": "Presidente Prudente",
+    "link": "SP - Presidente Prudente",
+    "observacoes": "",
+    "instrucoes": [
+      "Acesse o sistema da prefeitura.",
+      "Preencha os dados do tomador, item e valor.",
+      "Revise os dados e clique em Emitir."
+    ],
+    "imagem": null
+  },
+  {
+    "nome": "Ribeirão Preto",
+    "link": "SP - Ribeirão Preto ",
+    "observacoes": " Ribeirão Preto - Prestados",
+    "instrucoes": [
+      "Acesse o sistema da prefeitura.",
+      "Preencha os dados do tomador, item e valor.",
+      "Revise os dados e clique em Emitir."
+    ],
+    "imagem": null
+  },
+  {
+    "nome": "Santana de Parnaíba",
+    "link": "SP - Santana de Parnaíba",
+    "observacoes": "",
+    "instrucoes": [
+      "Acesse o sistema da prefeitura.",
+      "Preencha os dados do tomador, item e valor.",
+      "Revise os dados e clique em Emitir."
+    ],
+    "imagem": null
+  },
+  {
+    "nome": "Santo André",
+    "link": "SP - Santo André ",
+    "observacoes": "",
+    "instrucoes": [
+      "Acesse o sistema da prefeitura.",
+      "Preencha os dados do tomador, item e valor.",
+      "Revise os dados e clique em Emitir."
+    ],
+    "imagem": null
+  },
+  {
+    "nome": "Santos",
+    "link": "https://santos.giss.com.br/#/",
+    "observacoes": "",
+    "instrucoes": [
+      "Acesse o sistema da prefeitura.",
+      "Preencha os dados do tomador, item e valor.",
+      "Revise os dados e clique em Emitir."
+    ],
+    "imagem": null
+  },
+  {
+    "nome": "São Bernardo do Campo",
+    "link": "SP - São Bernardo do Campo",
+    "observacoes": "",
+    "instrucoes": [
+      "Acesse o sistema da prefeitura.",
+      "Preencha os dados do tomador, item e valor.",
+      "Revise os dados e clique em Emitir."
+    ],
+    "imagem": null
+  },
+  {
+    "nome": "São Caetano do Sul",
+    "link": "SP - São Caetano do Sul",
+    "observacoes": "",
+    "instrucoes": [
+      "Acesse o sistema da prefeitura.",
+      "Preencha os dados do tomador, item e valor.",
+      "Revise os dados e clique em Emitir."
+    ],
+    "imagem": null
+  },
+  {
+    "nome": "São Carlos",
+    "link": "SP - São Carlos",
+    "observacoes": "",
+    "instrucoes": [
+      "Acesse o sistema da prefeitura.",
+      "Preencha os dados do tomador, item e valor.",
+      "Revise os dados e clique em Emitir."
+    ],
+    "imagem": null
+  },
+  {
+    "nome": "São José dos Campos",
+    "link": "SP - São José dos Campos",
+    "observacoes": "",
+    "instrucoes": [
+      "Acesse o sistema da prefeitura.",
+      "Preencha os dados do tomador, item e valor.",
+      "Revise os dados e clique em Emitir."
+    ],
+    "imagem": null
+  },
+  {
+    "nome": "São José do Rio Preto",
+    "link": "SP - São José do Rio Preto",
+    "observacoes": "",
+    "instrucoes": [
+      "Acesse o sistema da prefeitura.",
+      "Preencha os dados do tomador, item e valor.",
+      "Revise os dados e clique em Emitir."
+    ],
+    "imagem": null
+  },
+  {
+    "nome": "São Paulo",
+    "link": "SP - Paulistana",
+    "observacoes": "",
+    "instrucoes": [
+      "Acesse o sistema da prefeitura.",
+      "Preencha os dados do tomador, item e valor.",
+      "Revise os dados e clique em Emitir."
+    ],
+    "imagem": null
+  },
+  {
+    "nome": "Sorocaba",
+    "link": "SP - Sorocaba",
+    "observacoes": "",
+    "instrucoes": [
+      "Acesse o sistema da prefeitura.",
+      "Preencha os dados do tomador, item e valor.",
+      "Revise os dados e clique em Emitir."
+    ],
+    "imagem": null
+  },
+  {
+    "nome": "Taboão da Serra",
+    "link": "SP - Taboão da Serra ",
+    "observacoes": "",
+    "instrucoes": [
+      "Acesse o sistema da prefeitura.",
+      "Preencha os dados do tomador, item e valor.",
+      "Revise os dados e clique em Emitir."
+    ],
+    "imagem": null
+  },
+  {
+    "nome": "Valinhos",
+    "link": "SP - Valinhos",
+    "observacoes": "",
+    "instrucoes": [
+      "Acesse o sistema da prefeitura.",
+      "Preencha os dados do tomador, item e valor.",
+      "Revise os dados e clique em Emitir."
+    ],
+    "imagem": null
+  }
+]

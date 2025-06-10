@@ -1,0 +1,106 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>FAQ Notas Fiscais SP</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #f9fafb;
+      display: flex;
+    }
+    .sidebar {
+      width: 250px;
+      background-color: #ffffff;
+      border-right: 1px solid #e0e0e0;
+      padding: 20px;
+      overflow-y: auto;
+    }
+    .sidebar h3 {
+      color: #0044aa;
+      font-size: 16px;
+      margin-bottom: 10px;
+      border-bottom: 1px solid #dbeafe;
+      padding-bottom: 4px;
+    }
+    .sidebar ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    .sidebar li {
+      cursor: pointer;
+      padding: 6px 0;
+      color: #1e3a8a;
+    }
+    .sidebar li:hover {
+      text-decoration: underline;
+    }
+    .content {
+      flex: 1;
+      padding: 30px;
+    }
+    .observacoes {
+      background-color: #e0f0ff;
+      padding: 1rem;
+      border-left: 5px solid #007bff;
+      border-radius: 8px;
+      margin-top: 1rem;
+    }
+    img {
+      max-width: 100%;
+      margin-top: 1rem;
+      border-radius: 8px;
+      border: 1px solid #ddd;
+    }
+  </style>
+</head>
+<body>
+
+<div class="sidebar">
+  <h3>São Paulo</h3>
+  <ul id="municipios-lista"></ul>
+</div>
+
+<div class="content" id="conteudo">
+  <h2>Selecione um município à esquerda</h2>
+</div>
+
+<script>
+  let municipios = [];
+
+  fetch('municipios_sp.json')
+    .then(response => response.json())
+    .then(data => {
+      municipios = data;
+      const lista = document.getElementById('municipios-lista');
+      data.forEach((m, index) => {
+        const li = document.createElement('li');
+        li.textContent = m.nome;
+        li.onclick = () => mostrarMunicipio(index);
+        lista.appendChild(li);
+      });
+    });
+
+  function mostrarMunicipio(index) {
+    const m = municipios[index];
+    const content = document.getElementById('conteudo');
+    content.innerHTML = `
+      <h2>${m.nome} - SP</h2>
+      <p><strong>1. Emitir Nota Fiscal:</strong><br>
+        <a href="#" target="_blank">${m.link}</a>
+      </p>
+      <p><strong>2. Instruções:</strong></p>
+      <ul>${m.instrucoes.map(i => `<li>${i}</li>`).join('')}</ul>
+      ${m.imagem ? `<img src="${m.imagem}" alt="Passo a passo ${m.nome}">` : ""}
+      <div class="observacoes">
+        <strong>3. Observações:</strong>
+        <p>${m.observacoes || "Sem observações específicas."}</p>
+      </div>
+    `;
+  }
+</script>
+
+</body>
+</html>
